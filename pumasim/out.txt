@@ -1,0 +1,11 @@
+Loaded ./Configuration.dat
+CS225A:> main started.
+./libcv_main.so: undefined symbol: cvLoop
+./libcv_main.so: undefined symbol: cvStop
+./libcv_main.so: undefined symbol: cvSetRobotState
+Could not load all required functions from libcv_main.so
+Loaded controllers from ./libcontrolDLL.so
+Loaded puma560.prm
+Loaded puma560.prm
+Loaded ./texture.png
+Exiting.
